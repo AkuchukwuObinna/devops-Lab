@@ -1,5 +1,4 @@
 # Intro to DevOps Lab
-# Intro to DevOps
 
 Set up a DevOps toolchain, containerised a Node.js app with Docker, automated builds with a Makefile, and tagged a v1.0.0 release.
 
